@@ -1,0 +1,15 @@
+{
+  "repo": "gptimage2-gpt-image-2-api-ja",
+  "model": "gpt-image-2",
+  "display": "GPT Image 2",
+  "variant": "model-ja",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_image",
+  "tiers": {
+    "default": 0.0085,
+    "1K": 0.0085,
+    "2K": 0.014,
+    "4K": 0.021
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
